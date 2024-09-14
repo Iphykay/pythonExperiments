@@ -45,6 +45,6 @@ b = int(input('Enter 2nd number: '))
 c = int(input('Enter 3rd number: '))
 d = int(input('Enter 4th number: '))
 
-uiop = check_prime(14,23,15,11)
+uiop = check_prime(a,b,c,d)
 
 print(f'The median is {find_median(a,b,c,d)}')
